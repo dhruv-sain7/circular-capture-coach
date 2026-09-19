@@ -1,0 +1,35 @@
+image_id,observed_view,status,issue_codes,reason,retake_guidance
+IMG-0001,front,usable,,Required detail is sufficiently visible for this intended view.,
+IMG-0002,label,usable,,Required detail is sufficiently visible for this intended view.,
+IMG-0003,rear_ports,usable,,Required detail is sufficiently visible for this intended view.,
+IMG-0004,front,retake,blur,Focus or motion blur obscures relevant detail.,Hold the camera steady and refocus on the subject.
+IMG-0005,label,retake,label_obstructed,Tape covers part of the temporary DEMO label.,Uncover the DEMO label and retake so every character is visible.
+IMG-0006,front,retake,underexposed,The required subject is too dark to inspect reliably.,Add even lighting and retake without deep shadows.
+IMG-0007,front,retake,framing,Part of the intended subject or label lies outside the frame.,Reposition to include the complete required subject.
+IMG-0008,front,retake,framing,Part of the intended subject or label lies outside the frame.,Reposition to include the complete required subject.
+IMG-0016,front,usable,,Required detail is sufficiently visible for this intended view.,
+IMG-0017,front,retake,blur,Focus or motion blur obscures relevant detail.,Hold the camera steady and refocus on the subject.
+IMG-0018,label,retake,underexposed,The required subject is too dark to inspect reliably.,Add even lighting and retake without deep shadows.
+IMG-0019,rear_ports,usable,,Required detail is sufficiently visible for this intended view.,
+IMG-0020,front,retake,framing,Part of the intended subject or label lies outside the frame.,Reposition to include the complete required subject.
+IMG-0021,label,retake,label_obstructed,Tape covers part of the temporary DEMO label.,Uncover the DEMO label and retake so every character is visible.
+IMG-0022,front,usable,,Required detail is sufficiently visible for this intended view.,
+IMG-0023,label,usable,,Required detail is sufficiently visible for this intended view.,
+IMG-0024,rear_ports,needs_review,,The intended connection area is not clearly shown.,Ask a human to review the intended view and visible detail.
+IMG-0025,front,needs_review,,"Brightness is elevated, but whether the required detail is unusable is ambiguous.",Ask a human to review the intended view and visible detail.
+IMG-0026,front,retake,underexposed,The required subject is too dark to inspect reliably.,Add even lighting and retake without deep shadows.
+IMG-0027,label,retake,label_obstructed,Tape covers part of the temporary DEMO label.,Uncover the DEMO label and retake so every character is visible.
+IMG-0035,label,usable,,Required detail is sufficiently visible for this intended view.,
+IMG-0036,front,usable,,Required detail is sufficiently visible for this intended view.,
+IMG-0037,label,retake,underexposed,The required subject is too dark to inspect reliably.,Add even lighting and retake without deep shadows.
+IMG-0038,label,retake,blur,Focus or motion blur obscures relevant detail.,Hold the camera steady and refocus on the subject.
+IMG-0039,label,retake,framing,Part of the intended subject or label lies outside the frame.,Reposition to include the complete required subject.
+IMG-0040,label,retake,label_obstructed,Tape covers part of the temporary DEMO label.,Uncover the DEMO label and retake so every character is visible.
+IMG-0041,label,retake,framing;glare_or_overexposed,Part of the intended subject or label lies outside the frame. Excessive brightness or glare reduces visible subject detail.,Reposition to include the complete required subject. Move the light or change the camera angle to reduce glare.
+IMG-0048,front,usable,,Required detail is sufficiently visible for this intended view.,
+IMG-0049,rear_ports,usable,,Required detail is sufficiently visible for this intended view.,
+IMG-0050,label,retake,framing,Part of the intended subject or label lies outside the frame.,Reposition to include the complete required subject.
+IMG-0051,label,retake,glare_or_overexposed,Excessive brightness or glare reduces visible subject detail.,Move the light or change the camera angle to reduce glare.
+IMG-0052,label,retake,underexposed,The required subject is too dark to inspect reliably.,Add even lighting and retake without deep shadows.
+IMG-0053,label,retake,label_obstructed,Tape covers part of the temporary DEMO label.,Uncover the DEMO label and retake so every character is visible.
+IMG-0054,label,retake,blur,Focus or motion blur obscures relevant detail.,Hold the camera steady and refocus on the subject.
